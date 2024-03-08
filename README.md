@@ -2,6 +2,12 @@
 
 Distributed Messenger is a peer-to-peer chat system that allows users to communicate with each other in real-time. It provides features such as sending messages, sharing files, and creating chat groups. Since the system is entirely peer-to-peer, users can run multiple instances of the application and connect to each other using groups.
 
+## Demo
+
+<img width="1496" alt="Screenshot 2024-03-08 at 4 56 03 AM" src="https://github.com/ameyagidh/DistributedMessanger/assets/65457905/28a94f5a-7487-492d-a4c5-8aa53261ccef">
+
+![8ihc8r](https://github.com/ameyagidh/DistributedMessanger/assets/65457905/4a2e9b58-03e0-4646-8c66-6e4ee200a14c)
+
 ## Build and Run
 
 To run Distributed Messenger, follow these steps:
